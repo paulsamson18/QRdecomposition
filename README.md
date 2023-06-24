@@ -56,7 +56,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![image](https://github.com/paulsamson18/QRdecomposition/assets/119405794/87f2a062-7320-4f4c-bb47-a70b188a9cd8)
+![image](https://github.com/paulsamson18/QRdecomposition/assets/119405794/822766ba-c98b-4096-aac1-91579b0a6062)
+
 
 
 ## Result
